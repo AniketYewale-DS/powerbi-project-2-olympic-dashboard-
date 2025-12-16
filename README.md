@@ -1,6 +1,7 @@
 # 🏅 Paris 2024 Olympics Power BI Dashboard
 
 
+![Paris 2024 Power BI Dashboard](home.png)
 
 
 
